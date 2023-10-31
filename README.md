@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hi there Karol here👋
+
+🌱 I’m currently learning backend of web applications
+
+My journey as a developer is just beginning. I'm still learning new technologies. I try to make the applications I write functional, error-free and look perfect.
 
 <!--
 **karollion/karollion** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
