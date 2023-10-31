@@ -1,4 +1,4 @@
-### Hi there Karol here👋
+### Hello, my name is Karol👋
 
 🌱 I’m currently learning backend of web applications
 
