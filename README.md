@@ -4,6 +4,8 @@
 
 My journey as a developer is just beginning. I'm still learning new technologies. I try to make the applications I write functional, error-free and look perfect.
 
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/512px-React-icon.svg.png" width="25" height="25"/>
+
 ![react](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/512px-React-icon.svg.png)
 <!--
 **karollion/karollion** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
