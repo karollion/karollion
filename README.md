@@ -6,7 +6,7 @@ My journey as a developer is just beginning. I'm still learning new technologies
 
 <p>
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/512px-React-icon.svg.png" height="25" alt="React"/>
-<img src="https://icon-library.com/images/node-js-icon/node-js-icon-29.jpg](https://github.com/voodootikigod/logo.js/blob/master/js.png" height="25" alt="Javascript"/>
+<img src="https://github.com/voodootikigod/logo.js/blob/master/js.png" height="25" alt="Javascript"/>
 <img src="https://icon-library.com/images/node-js-icon/node-js-icon-29.jpg" height="25" alt="Node.js"/>
 </p>
 <!--
