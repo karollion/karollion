@@ -1,8 +1,7 @@
 ### Hello, my name is Karol👋
 
-🌱 I’m currently learning backend of web applications
-
 My journey as a developer is just beginning. I'm still learning new technologies. I try to make the applications I write functional, error-free and look perfect.
+I wrote some cool web applications and participated in a web application development team.
 
 <p>
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/512px-React-icon.svg.png" height="25" alt="React"/>
