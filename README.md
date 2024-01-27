@@ -21,7 +21,7 @@ I wrote some cool web applications and participated in a web application develop
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=karollion&show_icons=true&locale=en&layout=compact" alt="karollion" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=karollion&show_icons=true&locale=en" alt="karollion" /></p>
+
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=karollion&" alt="karollion" /></p>
 
