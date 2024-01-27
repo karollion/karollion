@@ -5,9 +5,7 @@
 <p>I'm still learning new technologies. I try to make the applications I write functional, error-free and look perfect.
 I wrote some cool web applications and participated in a web application development team.</p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=karollion&label=Profile%20views&color=0e75b6&style=flat" alt="karollion" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=karollion" alt="karollion" /></a> </p>
 
 - 🔭 I’m currently working on [my portfolio page](https://a20ff442-f509-4801-a730-4ebf74ca4a86-00-34bmphcduzjjt.picard.replit.dev/)
 
