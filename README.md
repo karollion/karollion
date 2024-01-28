@@ -7,7 +7,7 @@ I wrote some cool web applications and participated in a web application develop
 
 
 
-- 🔭 I’m currently working on [my portfolio page](https://a20ff442-f509-4801-a730-4ebf74ca4a86-00-34bmphcduzjjt.picard.replit.dev/)
+- 🔭 I’m currently working on [my portfolio page]([https://a20ff442-f509-4801-a730-4ebf74ca4a86-00-34bmphcduzjjt.picard.replit.dev/](https://portfolio-karol-bernatowicz.onrender.com/))
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
